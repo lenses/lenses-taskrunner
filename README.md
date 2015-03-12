@@ -1,2 +1,2 @@
 # lenses-taskrunner
-Run JSHint, tests, etc on all th- components
+Run JSHint, tests, etc on all lens- components
