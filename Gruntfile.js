@@ -2,10 +2,10 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     jshint: {
-      files: ['../**/th-*.js']
+      files: ['../**/lens-*.js']
     },
     inlinelint: {
-      html: ['../**/th-*.html']
+      html: ['../**/lens-*.html']
     }
 
   });
